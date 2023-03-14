@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-redux-cards-list/static/css/main.e6c13ad2.css",
+    "main.js": "/react-redux-cards-list/static/js/main.79d878d6.js",
+    "index.html": "/react-redux-cards-list/index.html",
+    "main.e6c13ad2.css.map": "/react-redux-cards-list/static/css/main.e6c13ad2.css.map",
+    "main.79d878d6.js.map": "/react-redux-cards-list/static/js/main.79d878d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.79d878d6.js"
+  ]
+}
